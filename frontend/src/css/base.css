@@ -138,3 +138,7 @@ body {
   font-weight: 300 !important;
   line-height: 1.5385;
 }
+
+button, input, optgroup, select, textarea {
+  font-family: Poppins, sans-serif !important;
+}
